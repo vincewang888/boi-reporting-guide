@@ -46,67 +46,67 @@ BOI 报告中的数据将由 FinCEN 保密保存，不向公众公开，只有�
 
 #### 2.资料填写
 
-<img src="../public/boi001.jpg" width="2432px"  alt="choose file”">
+<img src="/public/boi001.jpg" width="2432px"  alt="choose file”">
 
 选择红框内的File
 
-<img src="../public/boi002.jpg" width="2322px"  alt="file filing”">
+<img src="/public/boi002.jpg" width="2322px"  alt="file filing”">
 
 选择红框内的BOI e-filing，并点击开始
 
-<img src="../public/boi003.jpg" width="1766px"  alt="prepare”">
+<img src="/public/boi003.jpg" width="1766px"  alt="prepare”">
 
 选择红框内的线上填写，并点击准备
 
-<img src="../public/boi004.jpg" width="2102px"  alt="innitial”">
+<img src="/public/boi004.jpg" width="2102px"  alt="innitial”">
 
 选择第一个选项，并默认填写时间
 
-<img src="../public/boi005.png" width="2144px"  alt="company name”">
+<img src="/public/boi005.png" width="2144px"  alt="company name”">
 
 填写公司名称，我们一般只填写带*号的文本框
 
-<img src="../public/boi006.png" width="1968px"  alt="ein”">
+<img src="/public/boi006.png" width="1968px"  alt="ein”">
 
 填写EIN, 下面的数字不需要加横杠
 
-<img src="../public/boi007.jpg" width="2060px"  alt="choose state”">
+<img src="/public/boi007.jpg" width="2060px"  alt="choose state”">
 
 选择国家和州，下面两个不用填写
 
-<img src="../public/boi008.png" width="2118px"  alt="address”">
+<img src="/public/boi008.png" width="2118px"  alt="address”">
 
 填写地址信息，也就是公司的注册地址
 
-<img src="../public/boi009.jpg" width="2090px"  alt="company info”">
+<img src="/public/boi009.jpg" width="2090px"  alt="company info”">
 
 填写公司信息
 
-<img src="../public/boi010.png" width="1996px"  alt="business info”">
+<img src="/public/boi010.png" width="1996px"  alt="business info”">
 
 我选择的是填写公司的地址信息
 
-<img src="../public/boi011.png" width="2110px"  alt="passport info”">
+<img src="/public/boi011.png" width="2110px"  alt="passport info”">
 
 填写护照信息
 
-<img src="../public/boi012.png" width="2066px"  alt="ra”">
+<img src="/public/boi012.png" width="2066px"  alt="ra”">
 
 填写家庭住址，填写你现在居住的地方即可
 
-<img src="../public/boi013.png" width="2036px"  alt="pi">
+<img src="/public/boi013.png" width="2036px"  alt="pi">
 
 填写护照信息
 
-<img src="../public/boi014.png" width="2220px"  alt="email">
+<img src="/public/boi014.png" width="2220px"  alt="email">
 
 填写email和姓名
 
-<img src="../public/boi015.jpg" width="2000px"  alt="dt">
+<img src="/public/boi015.jpg" width="2000px"  alt="dt">
 
 下载一下填写的内容
 
-<img src="../public/boi016.jpg" width="1714px"  alt="result">
+<img src="/public/boi016.jpg" width="1714px"  alt="result">
 
 大概当天邮箱会收到填写申请状态的反馈。
 
